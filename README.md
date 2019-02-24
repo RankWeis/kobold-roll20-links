@@ -7,13 +7,24 @@ Kobold Tampermonkey Utility
 
 Once installed, click on the extension and click 'Dashboard' and choose one of the methods of installation below.
 
-## Option 1: Trusting 
+## Option 1: Trusting jj
 
-If you trust that I'm not going to be messing with you, and you want any updates I may have for this script, click 'Utilities' and copy the [Github url](https://github.com/RankWeis/kobold-roll20-links/blob/master/Kobold.club%20Roll20%20Linker.user.js) and paste it into the box that says URL. 
+If you trust that I'm not going to be messing with you, and you want any updates I may have for this script,
+
+1. Click on the TamperMonkey icon in your browser.
+2. Click 'Utilities'.
+3. Copy the [Github url](https://github.com/RankWeis/kobold-roll20-links/blob/master/Kobold.club%20Roll20%20Linker.user.js) and paste it into the box that says URL. 
 
 ## Option 2: Suspicious
 
-There's no reason to trust to trust a random internet dude, so click the tab that says [+], then go to the [Github url](https://github.com/RankWeis/kobold-roll20-links/blob/master/Kobold.club%20Roll20%20Linker.user.js), vet the code to make sure I'm doing nothing suspicious, and paste it into the code box. Click File, then save, and enjoy!
+There's no reason to trust to trust a random internet dude, so - 
+
+1. Click on the TamperMonkey icon in your browser.
+2. Click the tab that says [+].
+3. Go to the [Github url](https://github.com/RankWeis/kobold-roll20-links/blob/master/Kobold.club%20Roll20%20Linker.user.js).
+4. Vet the code to make sure I'm doing nothing suspicious.
+5. Paste it into the code box. 
+6. Click File, then save.
 
 
 # Notes
