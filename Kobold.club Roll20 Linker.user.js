@@ -16,8 +16,6 @@ function replace() {
     'use strict';
     const roll20 = "https://roll20.net/compendium/dnd5e/";
     console.log("TamperMonkey - Replacing kobold.club names with links to roll20");
-    console.log(document.getElementsByClassName("group-info--header")[0].textContent);
-    console.log(Array.from(document.getElementsByClassName("monster-table--name ng-binding")));
     Array.from(document.getElementsByClassName("monster-table--name ng-binding"))
 	.map(it => {
         console.log("TamperMonkey - Doing it");
