@@ -7,7 +7,7 @@ Kobold Tampermonkey Utility
 
 Once installed, click on the extension and click 'Dashboard' and choose one of the methods of installation below.
 
-## Option 1: Trusting jj
+## Option 1: Trusting
 
 If you trust that I'm not going to be messing with you, and you want any updates I may have for this script,
 
