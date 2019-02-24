@@ -13,7 +13,7 @@ If you trust that I'm not going to be messing with you, and you want any updates
 
 1. Click on the TamperMonkey icon in your browser, then click 'Dashboard'.
 2. Click 'Utilities'.
-3. Copy the [Github url](https://github.com/RankWeis/kobold-roll20-links/blob/master/Kobold.club%20Roll20%20Linker.user.js) and paste it into the box that says URL. 
+3. Copy the link [https://github.com/RankWeis/kobold-roll20-links/blob/master/Kobold.club%20Roll20%20Linker.user.js](https://github.com/RankWeis/kobold-roll20-links/blob/master/Kobold.club%20Roll20%20Linker.user.js) and paste it into the box that says URL. 
 
 ## Option 2: I'm Suspicious
 
