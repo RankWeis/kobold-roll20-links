@@ -5,7 +5,8 @@ Kobold Tampermonkey Utility
 
 [Install Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
-Once installed, click on the extension and click 'Dashboard' and choose one of the methods of installation below.
+Then, choose a method of installation below.
+
 
 ## Option 1: I'm Trusting
 
