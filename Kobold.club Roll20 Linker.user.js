@@ -18,7 +18,6 @@ function replace() {
     console.log("TamperMonkey - Replacing kobold.club names with links to roll20");
     Array.from(document.getElementsByClassName("monster-table--name ng-binding"))
 	.map(it => {
-        console.log("TamperMonkey - Doing it");
 		var elem = it.textContent;
 		var url = encodeURI(roll20 + elem);
 		it.innerHTML = `<a href="${url}">${elem}</a>`;
