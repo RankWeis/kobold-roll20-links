@@ -11,9 +11,8 @@ Once installed, click on the extension and click 'Dashboard' and choose one of t
 
 If you trust that I'm not going to be messing with you, and you want any updates I may have for this script,
 
-1. Click on the TamperMonkey icon in your browser, then click 'Dashboard'.
-2. Click 'Utilities'.
-3. Copy the link [https://github.com/RankWeis/kobold-roll20-links/blob/master/Kobold.club%20Roll20%20Linker.user.js](https://github.com/RankWeis/kobold-roll20-links/blob/master/Kobold.club%20Roll20%20Linker.user.js) and paste it into the box that says URL. 
+1. Go to the [Github link](https://github.com/RankWeis/kobold-roll20-links/raw/master/Kobold.club%20Roll20%20Linker.user.js)
+2. Click 'Install'
 
 ## Option 2: I'm Suspicious
 
